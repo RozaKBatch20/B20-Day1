@@ -1,0 +1,10 @@
+Create NEW FILE CALLED file3.txt
+
+THIS IS MY THIRD FILE 
+
+commit the change
+
+Edit the content of file3.txt save and commit again
+
+Edit both files file1.txt and file2.txt, observe the change in GitHUb Desktop and commit both changes in one shot
+ 
