@@ -7,3 +7,5 @@ Git automatically detected the changes
 We committed this changes into local repository
 
 NEW CHANGES
+
+MORE CHANGES HAS BEEN ADDED
